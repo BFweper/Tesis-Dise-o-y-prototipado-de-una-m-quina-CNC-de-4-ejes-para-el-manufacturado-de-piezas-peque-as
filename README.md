@@ -14,7 +14,7 @@ Primero se tuvo que diseñar la máquina CNC de 3 ejes en Fusion 360, en la sigu
 
 En el siguiente video se puede ver el funcionamiento de la máquina CNC usando el software de Marlin
 
-El sistema Actuador que se diseño para implementar el cuarto eje, se puede ver en la siguiente imagen que se opto por usar engranajes planetarios usando un motor de 67Kg.cm de torque que se obtuvo de la tienda ([Naylamp Mechatronics](https://naylampmechatronics.com/motores-dc/817-motor-dc-37d-12v-35rpm-con-encoder.html)) 
+El sistema Actuador que se diseño para implementar el cuarto eje, se puede ver en la siguiente imagen que se opto por usar engranajes planetarios usando un motor de 67Kg.cm de torque que se obtuvo de la tienda Naylamp Mechatronics ([Link](https://naylampmechatronics.com/motores-dc/817-motor-dc-37d-12v-35rpm-con-encoder.html)) 
 
 El repositorio está organizado de la siguiente manera:
 
