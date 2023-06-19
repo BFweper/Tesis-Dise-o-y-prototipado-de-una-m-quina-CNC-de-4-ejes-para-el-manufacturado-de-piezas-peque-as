@@ -8,6 +8,9 @@ En este repositorio encontrarás una colección de archivos relacionados con el 
 
 # Diseño de la máquina CNC
 Primero se tuvo que diseñar la máquina CNC de 3 ejes en Fusion 360, en la siguiente imagen se puede ver la máquina CNC de 3 ejes que originalmente se tenia diseño y que ya fue implementado.
+Aquí tienes una captura de pantalla del proyecto:
+
+![Texto alternativo](cncPropia.jpg)
 
 El repositorio está organizado de la siguiente manera:
 
