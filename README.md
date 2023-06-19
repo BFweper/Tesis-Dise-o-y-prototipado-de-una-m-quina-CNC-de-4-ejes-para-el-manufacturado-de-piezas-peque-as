@@ -1,10 +1,13 @@
-# Tesis-Dise-o-y-prototipado-de-una-m-quina-CNC-de-4-ejes-para-el-manufacturado-de-piezas-peque-as
+# Tesis: Diseño y prototipado de una máquina CNC de 4 ejes para el manufacturado de piezas pequeñas
 
 ## Descripción
 
-En este repositorio encontrarás una colección de archivos relacionados con el diseño e implementación de una máquina CNC de 4 ejes para el manufacturado de piezas pequeñas. El objetivo principal de este proyecto es [explicar, desarrollar, demostrar, etc.] el concepto/tema Y.
+En este repositorio encontrarás una colección de archivos relacionados con el diseño e implementación de una máquina CNC de 4 ejes para el manufacturado de piezas pequeñas. El objetivo principal de este proyecto es explicar lo desarrollado hasta el momento sobre el tema de tesis.
 
 ## Contenido
+
+#Diseño de la máquina CNC
+Primero se tuvo que diseñar la máquina CNC de 3 ejes en Fusion 360, en la siguiente imagen se puede ver la máquina CNC de 3 ejes que originalmente se tenia diseño y que ya fue implementado.
 
 El repositorio está organizado de la siguiente manera:
 
