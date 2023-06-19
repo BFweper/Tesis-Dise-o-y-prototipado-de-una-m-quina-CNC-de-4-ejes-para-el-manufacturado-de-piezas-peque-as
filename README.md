@@ -9,10 +9,14 @@ En este repositorio encontrarás una colección de archivos relacionados con el 
 # Diseño de la máquina CNC
 Primero se tuvo que diseñar la máquina CNC de 3 ejes en Fusion 360, en la siguiente imagen se puede ver la máquina CNC de 3 ejes que originalmente se tenia diseño y que ya fue implementado.
 
-<img src="cncPropia.jpg" alt="Texto alternativo" width="400" height="500">
-<img src="cncpropia (1).jpg" alt="Texto alternativo" width="500" height="500">
+<img src="imagenes/cncPropia (7).jpg" alt="Texto alternativo" width="400" height="500">
+<img src="imagenes/cncpropia (8).jpg" alt="Texto alternativo" width="500" height="500">
 
-En el siguiente video se puede ver el funcionamiento de la máquina CNC usando el software de Marlin
+En el siguiente video se puede ver el funcionamiento de la máquina CNC usando el software de Marlin.
+
+[(Link del video)](https://drive.google.com/file/d/1PD01dJX2HNzqJeuAOO1hhQPEYfSpYTAr/view?usp=drive_link)
+
+En el anterior video se dibujaron cuadrados de 1cm x 1cm, para comprobar estos resulktados se realizaron las mediciones correspondientes.
 
 El sistema Actuador que se diseño para implementar el cuarto eje, se puede ver en la siguiente imagen que se opto por usar engranajes planetarios usando un motor de 67Kg.cm de torque que se obtuvo de la tienda Naylamp Mechatronics ([Link](https://naylampmechatronics.com/motores-dc/817-motor-dc-37d-12v-35rpm-con-encoder.html)) 
 
