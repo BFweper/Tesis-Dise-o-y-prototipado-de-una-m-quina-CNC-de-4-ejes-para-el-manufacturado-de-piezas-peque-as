@@ -13,9 +13,13 @@ Primero se tuvo que diseñar la máquina CNC de 3 ejes en Fusion 360, en la sigu
 <img src="imagenes/cncpropia (8).jpg" alt="Texto alternativo" width="500" height="500">
 
 En el siguiente video se puede ver el funcionamiento de la máquina CNC usando el software de Marlin, cuya interfaz gráfica se puede ver en la siguiente imagen.
+
+
 <img src="imagenes/InterfazMarlin.jpeg" alt="Texto alternativo" width="800" height="500">
 
 [(Link del video)](https://drive.google.com/file/d/1PD01dJX2HNzqJeuAOO1hhQPEYfSpYTAr/view?usp=drive_link)
+
+
 
 En el anterior video se dibujaron cuadrados de 1cm x 1cm, para comprobar estos resulktados se realizaron las mediciones correspondientes, donde se comprueba que la mpáquina si esta respondiendo a los comando NC que se le esta cargando.
 
