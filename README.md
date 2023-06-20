@@ -21,7 +21,7 @@ En el siguiente video se puede ver el funcionamiento de la máquina CNC usando e
 
 
 
-En el anterior video se dibujaron cuadrados de 1cm x 1cm, para comprobar estos resulktados se realizaron las mediciones correspondientes, donde se comprueba que la mpáquina si esta respondiendo a los comando NC que se le esta cargando.
+En el anterior video se dibujaron cuadrados de 1cm x 1cm, para comprobar estos resultados se realizaron las mediciones correspondientes, donde se comprueba que la mpáquina si esta respondiendo a los comando NC que se le esta cargando por lo que ya se puede tener la certeza de que también se tendrá al momento del proceso del fresado.
 
 <img src="imagenes/medicionesCua.jpeg" alt="Texto alternativo" width="400" height="500">
 
