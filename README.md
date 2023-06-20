@@ -37,8 +37,15 @@ El sistema Actuador que se diseño para implementar el cuarto eje, se puede ver 
 
 Estos engranajes son la primera versión ya que se mejoró este diseño obteniendo la siguiente imagen
 <img src="imagenes/sistemaActuador.jpg" alt="Texto alternativo" width="300" height="300">
-<img src="imagenes/Plezas.jpg" alt="Texto alternativo" width="300" height="300">
+<img src="imagenes/PIezas.jpg" alt="Texto alternativo" width="300" height="300">
 
+
+
+Para evitar la fricción del movimiento del engranaje corona se colocó unas 6 ruedas colocadas para distribui el peso de todo el eje Z y evitar que las piezas tengan deformaciones o se rompan.
+
+<img src="imagenes/rueda.jpg" alt="Texto alternativo" width="300" height="400">
+
+Para el controlador del motor adquirido se explico en el documento de la tesis ([Link](https://www.overleaf.com/read/zrbwjbkmgxcb)) por lo que en este repositorio se colocaron los archivos de SImulink que se usaron para realizar las simulaciones en la carpeta de Simulaciones, pero todavía no se logró implementar en el Marlin debido a la complejidad de este controlador, se esta evaluando el implementar este controlador usando un circuito a base de OPAMPS.
 
 
 
