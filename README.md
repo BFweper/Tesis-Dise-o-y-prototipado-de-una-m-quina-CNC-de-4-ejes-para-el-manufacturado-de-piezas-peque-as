@@ -30,7 +30,9 @@ $$
 
 El motor paso a paso NEMA 17 tiene que estar configurado a 1/4 de pasos para que el tornillo de 4 hilos tenga una precisión de avance de 1mm cuando se gire una vuelta. Entonces, en el informe de la tesis ([Link](https://www.overleaf.com/read/zrbwjbkmgxcb)), se tiene el cálculo para comprobar que los NEMA 17 en lo ejes XYZ si podrán realizar la tarea del fresado. 
 
-El sistema Actuador que se diseño para implementar el cuarto eje, se puede ver en la siguiente imagen que se opto por usar engranajes planetarios usando un motor de 67Kg.cm de torque que se obtuvo de la tienda Naylamp Mechatronics ([Link](https://naylampmechatronics.com/motores-dc/817-motor-dc-37d-12v-35rpm-con-encoder.html)). El diseño de estos engranajes planetarios se puede ver en la siguiente imagen.
+El sistema Actuador que se diseño para implementar el cuarto eje, se puede ver en la siguiente imagen que se opto por usar engranajes planetarios usando un motor de 67Kg.cm de torque que se obtuvo de la tienda Naylamp Mechatronics ([Link](https://naylampmechatronics.com/motores-dc/817-motor-dc-37d-12v-35rpm-con-encoder.html)). El diseño y fabricación de estos engranajes planetarios se puede ver en las siguientes imagenes.
 
+<img src="imagenes/engranajesDise.png" alt="Texto alternativo" width="300" height="300">
+<img src="imagenes/engranajesimple.jpg" alt="Texto alternativo" width="300" height="400">
 
-
+Estos engranajes son la primera versión ya que se mejoró este diseño obteniendo la siguiente imagen
